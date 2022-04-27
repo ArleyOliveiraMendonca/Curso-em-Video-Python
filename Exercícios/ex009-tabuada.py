@@ -1,3 +1,6 @@
+'''
+Exercício Python 9: Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+'''
 n = int(input('Qual o número? '))
 print ('-' * 15)
 print('| {} x  1 = {:>3} |'.format(n, n*1))
