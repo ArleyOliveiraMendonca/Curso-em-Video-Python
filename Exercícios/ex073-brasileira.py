@@ -4,7 +4,7 @@ Crie uma tupla preenchida com os 20 primeiros colocados da tabela do Campeonato 
 A) Apenas os 5 priemiros colocados.
 B) Os últimos 4 colocados da tabela.
 C) Uma lista com os times em ordem alfabética
-D) Em que posição da tablea está o time do Botafogo
+D) Em que posição da tablea está o time do Botafogo.
 '''
 times = ('Santos', 'Atlético Mineiro', 'Corinthians', 'Cuiabá Saf', 'Internacional', 'Avaí', 'Red Bull Bragantino', 'Palmeiras', 'Flamengo', 'Coritiba', 'São Paulo', 'Botafogo', 'Fluminense', 'América Fc Saf', 'Ceará', 'Athletico Paranaense', 'Atlético', 'Goiás', 'Juventude', 'Fortaleza')
 
