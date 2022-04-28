@@ -14,5 +14,5 @@ print(f'Os últimos 4 colocados são {times[-4:]}')
 print('-=' * 5)
 print(f'Em ordem alfabetica: {sorted(times)}')
 print('-=' * 5)
-print(f'O Botafogo está na posição {times[Botafogo]}')
+print(f'O Botafogo está na {times.index("Botafogo")+1}ª posição ')
 
