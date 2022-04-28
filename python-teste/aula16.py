@@ -2,7 +2,7 @@ lanche = ('Hamburguer', 'Suco', 'Pizza', 'pudim', 'batata-frita')
 
 print(sorted(lanche)) #organiza em ordem alfabetica
 print(lanche)
-'''
+
 print(lanche)
 print(lanche[1])# referencia com colchetes - mostra suco
 print(lanche[-2])# le ao contrario, mostra a Pizza
@@ -22,6 +22,6 @@ for cont in range(0, len(lanche)):
 print('-='*10)
 for pos, comida in enumerate(lanche):
     print(f'Eu vou comer {comida} na posição {pos}')
-print('-='*10)'''
+print('-='*10)
 
 
